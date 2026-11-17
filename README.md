@@ -1,3 +1,10 @@
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset=".github/banner-dark.svg">
+    <img alt="GreenLens — built from zero" src=".github/banner-light.svg" width="100%">
+  </picture>
+</p>
+
 # GreenLens
 
 GreenLens is a native desktop application that identifies plant diseases from
