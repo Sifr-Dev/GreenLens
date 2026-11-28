@@ -1,0 +1,9 @@
+{
+  "name": "GreenLens",
+  "description": "Native plant-disease classifier (egui/OpenGL)",
+  "stack": [
+    "cargo"
+  ],
+  "status": "active",
+  "primary_language": "Rust"
+}
